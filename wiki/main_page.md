@@ -2,7 +2,6 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+Welcome to the wiki of the ThunderSMP, a small Minecraft Java and Bedrock server, designed to be fun for all!
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
-
+This wiki will expand over time, for now, most information is available on the [Discord server](https://discord.gg/yCkTc5retw).
