@@ -1,3 +1,7 @@
+---
+redirect_from: "/ip"
+---
+
 # Server IP-address
 ## Main IP-address
 
