@@ -3,9 +3,9 @@
 
 This IP-address works for Java and Bedrock
 
-```Address: into-sodium.at.ply.gg```
+Address: `into-sodium.at.ply.gg`
 
-```Port: 60477```
+Port: `60477`
 
 
 ## Legacy IP-address
