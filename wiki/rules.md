@@ -1,4 +1,4 @@
-# Main server rules
+# Main Server Rules
 
 
 > 1. Don't spam
