@@ -1,4 +1,5 @@
 # Server IP-address
+## Main IP-address
 
 This IP-address works for Java and Bedrock
 
