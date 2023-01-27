@@ -27,3 +27,9 @@ If you want to teleport to one of your own homes, you can simply use the `/home 
 Teleporting to another players home requires you to use the `/home [player:]<name>` command, please note that Bedrock player names have a `*` in front of them.
 
 Using the home command on its own (like `/home`) will list all of your available homes.
+
+## Graves
+
+If you die, a grave will appear on your death loaction containing all of your stuff, so you don't have to worry about your stuff despawning or that someone else steals it.
+
+To see all of your current graves use the `/graves` command, then a GUI will pop up displaying all of your current graves, you can then select a grave to teleport to using the GUI.
