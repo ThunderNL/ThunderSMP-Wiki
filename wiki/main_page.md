@@ -12,4 +12,7 @@ This wiki will expand over time, for now, most information is available on the [
 ### [Main Server Rules](https://thundersmp.nl.eu.org/rules)
 Read these first!
 
+### [Start Guide](https://thundersmp.nl.eu.org/start-guide)
+A guide to most things you need to know.
+
 ### [Server IP-address](https://thundersmp.nl.eu.org/server-ip-address)
