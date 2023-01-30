@@ -33,3 +33,7 @@ Using the home command on its own (like `/home`) will list all of your available
 If you die, a grave will appear on your death loaction containing all of your stuff, so you don't have to worry about your stuff despawning or that someone else steals it.
 
 To see all of your current graves use the `/graves` command, then a GUI will pop up displaying all of your current graves, you can then select a grave to teleport to using the GUI.
+
+## Advancements
+
+ThunderSMP has a custom advancements pack, with many new goals to reach. There are also rewards and trophies for completing certain advancements. You can track your progress as wel as the progress of other players with the scoreboard.
