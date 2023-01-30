@@ -37,3 +37,5 @@ To see all of your current graves use the `/graves` command, then a GUI will pop
 ## Advancements
 
 ThunderSMP has a custom advancements pack, with many new goals to reach. There are also rewards and trophies for completing certain advancements. You can track your progress as wel as the progress of other players with the scoreboard.
+
+[Learn more (PlanetMinecraft)](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
