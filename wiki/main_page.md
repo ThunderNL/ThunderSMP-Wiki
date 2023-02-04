@@ -18,3 +18,5 @@ Read these first!
 A guide to most things you need to know.
 
 ### [Server IP-address](https://thundersmp.nl.eu.org/server-ip-address)
+
+### [Issue Report](https://thundersmp.nl.eu.org/issues)
