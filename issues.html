@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<link rel="stylesheet" href="custom.css">
+</head>
+
+<html>
+<body>
+<h1>
+<a href="https://thundersmp.nl.eu.org/">ThunderSMP</a>
+Issue report
+</h1>
+<h4><form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/1npalXFAs9NCadgnxoVNTWhFUAcXebLMsKvQeJQY4Gek/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+<label>Issue type:</label>
+<input type="radio" id="entry.2121140337" name="entry.2121140337" value="Bug report">
+<label for="Bug report">Bug report</label><br>
+<input type="radio" id="entry.2121140337" name="entry.2121140337" value="Feature request">
+<label for="Feature request">Feature request</label><br>
+<input type="radio" id="entry.2121140337" name="entry.2121140337" value="Security vulnerability">
+<label for="Security vulnerability">Security vulnerability</label><br>
+<input type="radio" id="entry.2121140337" name="entry.2121140337" value="Other" required>
+<label for="Other">Other</label><br><br>
+<label>Please describe your issue clearly:</label>
+<textarea id="entry.820827363" name="entry.820827363" required>
+</textarea><br><br>
+<label>Optional screenshot/video links:</label>
+<input type="text" id="entry.1821923908" name="entry.1821923908"><br><br>
+<label>Minecraft username (put an " * " in front if on Bedrock)</label>
+<input type="text" id="entry.1577552321" name="entry.1577552321" required><br><br>
+<input type="submit" value="Submit">
+</form>
+
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+ $('#gform *').fadeOut(0);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
+
+</h4></body>
