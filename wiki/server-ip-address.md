@@ -3,24 +3,14 @@ redirect_from: "/ip"
 ---
 
 # Server IP-address
-## Main IP-address
-
-This IP-address works for Java and Bedrock
-
-Address: `into-sodium.at.ply.gg`
-
-Port: `60477`
-
-
-## Legacy IP-address
-You can still connect to these, but the above IP-address works for both editions and is recommended.
+Please note that these can change at any time. If the Java IP is down for whatever reason, please try using the Bedrock IP.
 
 __Java:__
 
-Address: `create-text.craft.ply.gg`
+Address: `tsmp.nl.eu.org`
 
 __Bedrock:__
 
-Address: `color-producer.at.ply.gg`
+Address: `as-sk.at.ply.gg`
 
-Port: `19259`
+Port: `46453`
