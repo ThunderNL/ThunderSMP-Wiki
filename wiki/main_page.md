@@ -1,8 +1,7 @@
 ---
 redirect_from: "/"
 ---
-# ThunderSMP S7 Wiki
-# [THUNDERSMP IS INACTIVE SINCE FEBRUARY 2023](https://www.tsmp.nl.eu.org/blog/posts/2023/02/22/The-ending-of-ThunderSMP.html)
+# ThunderSMP S9.1 Wiki
 
 
 Welcome to the wiki of the ThunderSMP, a small Minecraft Java and Bedrock server, designed to be fun for all!
