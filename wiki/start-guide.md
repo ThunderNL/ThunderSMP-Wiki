@@ -35,9 +35,3 @@ If you die, a grave will appear on your death loaction containing all of your st
 To see all of your current graves use the `/graves` command, then a GUI will pop up displaying all of your current graves, you can then select a grave to teleport to using the GUI.
 
 [Learn more (SpigotMC)](https://www.spigotmc.org/resources/graves.74208/)
-
-## Advancements
-
-ThunderSMP has a custom advancements pack, with many new goals to reach. There are also rewards and trophies for completing certain advancements. You can track your progress as wel as the progress of other players with the scoreboard.
-
-[Learn more (PlanetMinecraft)](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
