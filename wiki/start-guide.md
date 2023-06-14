@@ -1,3 +1,7 @@
+---
+redirect_from: "/start"
+---
+
 # Start Guide
 
 This guide will teach you the basic extra's on the ThunderSMP *(e.g. homes, graves)*.
@@ -40,7 +44,7 @@ You earn money for being online and for killing mobs.
 
 ## Map
 
-There is a map visable at [map.tsmp.nl.eu.org](map.tsmp.nl.eu.org)
+There is a map visable at [map.tsmp.nl.eu.org](http://map.tsmp.nl.eu.org/)
 
 ## Graves
 
