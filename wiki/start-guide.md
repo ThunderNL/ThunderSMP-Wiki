@@ -28,6 +28,20 @@ Teleporting to another players home requires you to use the `/home [player:]<nam
 
 Using the home command on its own (like `/home`) will list all of your available homes.
 
+`/h` does the same as `/home home`, so it will teleport you to your default home.
+
+## Land Claiming
+
+You can claim land using [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/), watch [this video](https://youtu.be/VDsjXB-BaE0) to learn more. To buy more claim blocks use the `/buyclaimblocks` command.
+
+## Earning Money
+
+You earn money for being online and for killing mobs.
+
+## Map
+
+There is a map visable at [map.tsmp.nl.eu.org](map.tsmp.nl.eu.org)
+
 ## Graves
 
 If you die, a grave will appear on your death loaction containing all of your stuff, so you don't have to worry about your stuff despawning or that someone else steals it.
