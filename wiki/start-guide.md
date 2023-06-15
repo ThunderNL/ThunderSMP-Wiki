@@ -46,10 +46,16 @@ You earn money for being online and for killing mobs.
 
 There is a map visable at [map.tsmp.nl.eu.org](http://map.tsmp.nl.eu.org/)
 
+## Advancements
+
+ThunderSMP is using BlazeandCave's Advancements Pack, which has many new goals to reach. There are also rewards for completing certain advancements.
+
+[Learn more](https://modrinth.com/datapack/blazeandcaves-advancements-pack)
+
 ## Graves
 
 If you die, a grave will appear on your death loaction containing all of your stuff, so you don't have to worry about your stuff despawning or that someone else steals it.
 
 To see all of your current graves use the `/graves` command, then a GUI will pop up displaying all of your current graves, you can then select a grave to teleport to using the GUI.
 
-[Learn more (SpigotMC)](https://www.spigotmc.org/resources/graves.74208/)
+[Learn more](https://www.spigotmc.org/resources/graves.74208/)
