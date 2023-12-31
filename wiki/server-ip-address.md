@@ -11,6 +11,6 @@ Address: `tsmp.nl.eu.org`
 
 __Universal (Java & Bedrock):__
 
-Address: `as-sk.at.ply.gg`
+Address: `229.ip.ply.gg`
 
 Port: `46453`
