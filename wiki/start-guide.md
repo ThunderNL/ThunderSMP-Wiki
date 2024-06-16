@@ -40,7 +40,7 @@ You can claim land using [GriefPrevention](https://www.spigotmc.org/resources/gr
 
 ## Earning Money
 
-You earn money for being online and for killing mobs. You can also join up to 3 jobs, use the `/jobs` command to find out more.
+You earn money for being online and for killing mobs.
 
 ## Map
 
