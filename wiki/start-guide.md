@@ -34,6 +34,12 @@ Using the home command on its own (like `/home`) will list all of your available
 
 `/h` does the same as `/home home`, so it will teleport you to your default home.
 
+## TPA
+
+You can TPA to players using the `/tpa <player>` command, they will have to accept it.
+
+You can also request a player to TPA to you, using the `/tpahere <player>` command.
+
 ## Land Claiming
 
 You can claim land using [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/), watch [this video](https://youtu.be/VDsjXB-BaE0) to learn more. To buy more claim blocks use the `/buyclaimblocks` command.
